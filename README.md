@@ -6,7 +6,7 @@
 - I'm from Manchester! 📌
 - I'm an Event Moderator for [BiomeBattle](https://twitter.com/BiomeBattle)
 - I used linux before it was cool.*\
-  <sup><sub>*Not daily driver... i only started dailying it during the first couple waves of big hype... but.. i always knew it was better!</sub></sup>
+  <sup><sub>*Albeit not as a daily driver... i only started dailying it during the first couple waves of big hype... but.. i always knew it was better!</sub></sup>
 - I'm always looking to learn and develop my skills 🎉
 
 ### Projects
