@@ -1,6 +1,6 @@
 # Hey :wave:, I'm DiaDuck! 💎🦆
 
-### I'm a student learning Python and Java 🖥️
+### I'm a student learning Swift, Python, and Java 🖥️
 
 ### About me:
 - I'm from Manchester! 📌
