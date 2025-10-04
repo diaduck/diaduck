@@ -9,8 +9,8 @@
 - I'm always looking to learn and develop my skills 🎉
 
 ### Projects
-- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)
-- I'm currently working on [Carnage](https://github.com/TeamCarnage/Carnage), a PvP overhall mod for Minecraft!
+- Currently in full time work for undisclosed, private companies.
+- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)! Go check them out :)
 - One day i'll do something with [DiaBot](https://github.com/diaduck/DiaBot), my discord bot, but I really cannot be bothered...
 
 ### To-Do List
