@@ -4,7 +4,7 @@
 
 ### About me:
 - I'm from Manchester! 📌
-- I'm an Event Moderator for [BiomeBattle](https://twitter.com/BiomeBattle)
+- I'm on the Production Team for [BiomeBattle](https://twitter.com/BiomeBattle)
 - I used linux before it was cool.
 - I'm always looking to learn and develop my skills 🎉
 
