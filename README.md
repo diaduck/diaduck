@@ -10,7 +10,7 @@
 ### Projects
 - Currently in College doing Software Development.
 - Junior Web Developer and AI Solutions at IBM.
-- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)
+- Development, Event, and general runner for [BiomeBattle](https://twitter.com/BiomeBattle)
 
 ### Skills
 - Proficient in Python and *Nix Systems
@@ -21,11 +21,6 @@
 - T Level Digital Software Development
 - Full Stack Web & AI at IBM
 - 9 in Computer Science GCSE
-
-
-### To-Do List
-- Finish this README 💔
-
 
 <!---
 diaduck/diaduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
