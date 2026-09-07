@@ -4,13 +4,14 @@
 
 ### About me
 - I'm from Manchester! 📌
-- I'm on the Production Team for [BiomeBattle](https://twitter.com/BiomeBattle)
+- Junior Web Developer and AI Solutions at IBM.
+- Production Team for [BiomeBattle](https://twitter.com/BiomeBattle)
 - I used linux before it was cool.
 
 ### Projects
 - Currently in College doing Software Development.
-- Junior Web Developer and AI Solutions at IBM.
 - Development, Event, and general runner for [BiomeBattle](https://twitter.com/BiomeBattle)
+- Web-dev for [Klyx](https://klyx.org/) and [MC Mayhem](https://mayhem.diaduck.xyz/)
 
 ### Skills
 - Proficient in Python and *Nix Systems
