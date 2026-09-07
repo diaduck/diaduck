@@ -15,8 +15,8 @@
 
 ### Skills
 - Proficient in Python and *Nix Systems
-- Comfortable in Go, React/JS, and Java
-- Knowledgable of Swift, SwiftUI, and C
+- Comfortable in Go, Svelte/TS, and Java
+- Knowledgable of Swift, SwiftUI, React, and C
 
 ### Qualifications
 - T Level Digital Software Development
