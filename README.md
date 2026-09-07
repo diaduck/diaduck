@@ -11,7 +11,7 @@
 ### Projects
 - Currently in College doing Software Development.
 - Development, Event, and general runner for [BiomeBattle](https://twitter.com/BiomeBattle)
-- Web-dev for [Klyx](https://klyx.org/) and [MC Mayhem](https://mayhem.diaduck.xyz/)
+- Web-dev for [Klyx](https://klyx.org/) and [MC Mayhem](https://mcmayhem.live/)
 
 ### Skills
 - Proficient in Python and *Nix Systems
